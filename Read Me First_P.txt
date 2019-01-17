@@ -1,0 +1,9 @@
+For Running this project you have to follwo this instruction
+
+1. After extracting you will see a folder name called photogallery
+Place this folder into htdocs folder.
+
+2. Create a database name just like photo_gallery and Import 
+photo_gallery.sql which you find into the photogallery folder.
+
+3. And Pase this url into address bar:http://photogallery29.000webhostapp.com/
